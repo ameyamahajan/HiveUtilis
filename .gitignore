@@ -1,2 +1,2 @@
-HiveUDF/target
-HiveUDF/bin
+*/target/**
+*/HiveUDF/**
