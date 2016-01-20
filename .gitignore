@@ -1,2 +1,7 @@
-*/target/**
-*/HiveUDF/**
+target/**
+HiveUDF/**
+.DS_Store
+.classpath
+.project
+.settings/
+
